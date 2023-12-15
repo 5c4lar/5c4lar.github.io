@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate of Cyberspace Security @ IIE
+role: PhD Student @ IIE
 
 # Organizations/Affiliations to show in About widget
 organizations:
